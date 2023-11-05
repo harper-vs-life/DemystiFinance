@@ -2,7 +2,7 @@
   <img width="565" alt="DemystiFynance" src="https://github.com/harper-vs-life/DemystiFynance/assets/90812938/7450fc93-bbf5-4817-8f0c-d9ec2db10e56">
 </p>
 
-<p align="center">A chrome extension that utilizes generative AI to explain complicated and confusing financial concepts in order to ensure an inclusive investment platform.
+<p align="center">A Google Chrome extension that utilizes generative AI to automatically explain intimidating financial concepts in order to demystify the world of finance and investments.
 </p>
 <br>
 
